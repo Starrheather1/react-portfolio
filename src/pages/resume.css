@@ -1,0 +1,11 @@
+.resume{
+    min-height:70vh;
+   background-color: rgba(8, 46, 111, 0.83);
+   padding:20px;
+   color:white;
+}
+
+.resume a{
+  color:greenyellow;
+}
+

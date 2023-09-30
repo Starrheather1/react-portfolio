@@ -1,0 +1,39 @@
+.about-me{
+    display:flex;
+justify-content:flex-start;
+align-items: stretch;
+min-height: 70vh;
+font-family: Arial, Helvetica, sans-serif;
+font-size: larger;
+}
+img{
+    width:150px;
+    border-radius: 20px;
+}
+.picture{
+    width:25%;
+    border-right:1px solid black;
+    min-height:80%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(15, 65, 153, 0.778);
+}
+.description{
+    margin:0px;
+    color:white;
+    width:75%;
+
+   min-height:80%;
+   background-color: rgba(8, 46, 111, 0.83);
+}
+.description h1{
+    margin:0px;
+    padding:20px;
+    text-align: center;
+    background-color: rgba(7, 36, 85, 0.981);
+}
+.description p{
+    padding:20px;
+    text-align: left;
+}

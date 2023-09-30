@@ -1,0 +1,16 @@
+.project{
+    display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height:200px;
+width:200px;
+border-radius: 20px;
+box-shadow: inset;
+color:white;
+
+background-color: rgba(21, 70, 154, 0.83);
+}
+.project div img{
+    width:100%;
+}
